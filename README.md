@@ -9,4 +9,4 @@
 | -    | [Лабораторная работа 5](https://replit.com/@nestessia/LR5-Prog "Работа с БД")   |
 | -    | [Лабораторная работа 6](https://replit.com/@nestessia/LR6-Prog "Добавление ООП к ЛР5")   |
 | -    | [Лабораторная работа 7](https://replit.com/@nestessia/PROG-4-work-with-JSON "Работа с JSON")   |
-| -    | [Лабораторная работа 8](https://replit.com/@nestessia/lr-13-05-oop-orm "OOP ORM")   |
+| -    | [Лабораторная работа 8](https://replit.com/@nestessia/LR8-Prog "OOP ORM")   |
