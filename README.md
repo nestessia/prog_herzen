@@ -21,5 +21,5 @@
 |[Лабораторная работа 4](https://replit.com/@nestessia/LR4-Fibonachchi) Создание итератора по ряду Фибоначчи|-|
 |[Лабораторная работа 5](https://replit.com/@nestessia/LR5-5-siemiestr#main.py) Получение курсов валют (ООП)  |-|
 |[Лабораторная работа 6](https://replit.com/@nestessia/LR6-lesslessOdinochkagreatergreater) «Одиночка» и получение курсов валют|-|
-|[Лабораторная работа 7]() Использование шаблона «Декоратор»|-|
-|[Лабораторная работа 8]() |-|
+|[Лабораторная работа 7]((https://replit.com/@nestessia/LR8-MVC#main.py)) Использование шаблона «Декоратор»|-|
+|[Лабораторная работа 8](https://replit.com/@nestessia/LR8-MVC#main.py) Реализация MVC в веб-приложениях |-|
